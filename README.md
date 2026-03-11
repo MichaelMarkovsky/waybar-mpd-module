@@ -1,0 +1,1 @@
+# waybar-mpd-module
