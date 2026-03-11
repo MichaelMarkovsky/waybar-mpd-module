@@ -80,6 +80,7 @@ chmod +x ~/.config/waybar/scripts/*.sh
 ```
 
 For more examples check out my dotfiles repository.
+https://github.com/MichaelMarkovsky/my-dotfiles
 
 ## Configuration
 1. Add the custom modules to your waybar config file:
