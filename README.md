@@ -3,6 +3,11 @@
 >  Custom MPD module for Waybar featuring scrolling song titles
 and a favorite playlist toggle.
 
+## Demo
+
+https://github.com/user-attachments/assets/52496d02-1559-4dd2-b8b1-d76a8c81f162
+
+
 
 ---
 
@@ -105,3 +110,5 @@ For more examples check out my dotfiles repository.
 3. Change to your playlist:
 For both the scripts `is_in_playlist.sh` and `mpd-heart-toggle.sh` change the `PLAYLIST_NAME=<YOUR PLAYLIST NAME>`.
 
+## License
+MIT
